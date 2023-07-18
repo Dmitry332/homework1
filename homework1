@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Домашнее задание</title>
+</head>
+<body>
+    <p><i>Привет, мир!</i>
+    <b>Привет, мир!</b>
+    </p>
+    <div><u><span>Привет, мир</u></span>
+    <span><h2>Привет, мир<h2></span>
+    </div>
+    <footer><sup><p>Привет, мир!<p></sup>
+    <small><p>Привет, мир!</p></small>
+    </foter>
+    </body>
+    </html>
